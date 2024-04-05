@@ -95,7 +95,7 @@ nav ul li a:hover {
 .coverImage {
   width: 100%;
   height: 50em;
-  background-image: url("/personal/img/cover.jpg");
+  background-image: url("img/cover.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 
